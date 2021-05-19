@@ -2,8 +2,8 @@ class Solution:
     def canConstruct(self, ransom:str,megazine:str) -> bool:
         for i in ransom:
             if i in megazine:
-                megazine.replace(i,’‘，1)
-            else
+                megazine.replace(i,'')
+            else:
                 return False
         return True
 

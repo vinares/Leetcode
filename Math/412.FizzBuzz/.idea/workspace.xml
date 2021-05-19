@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22b4338e-ca52-4db4-bdce-a289002f0776" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/412.FizzBuzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/散列表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../523.SubarraySum/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../523.SubarraySum/.idea/523.SubarraySum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../523.SubarraySum/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../523.SubarraySum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../523.SubarraySum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../523.SubarraySum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../523.SubarraySum/哈希.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../525.SubarrayBinary/.idea/525.LongestArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../560.Subarray/.idea/560.Subarray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.Reverse/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.Reverse/.idea/7.Reverse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.Reverse/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.Reverse/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.Reverse/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.Reverse/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.Reverse/模10运算.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18.Sum4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../18.Sum4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18.Sum4/双指针.py" beforeDir="false" afterPath="$PROJECT_DIR$/../18.Sum4/双指针.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1kjXikTWYuHSaMq9mRpDp9LMeDq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../7.Reverse" />
+  </component>
+  <component name="RunManager" selected="Python.散列表">
+    <configuration name="散列表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="412.FizzBuzz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/散列表.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="412.FizzBuzz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FizzBuzz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.散列表" />
+        <item itemvalue="Python.FizzBuzz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22b4338e-ca52-4db4-bdce-a289002f0776" name="Default Changelist" comment="" />
+      <created>1606215103809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606215103809</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1606217699338">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606217699338" />
+    <state width="1515" height="223" key="GridCell.Tab.0.bottom" timestamp="1606218589612">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606218589612" />
+    <state width="1515" height="223" key="GridCell.Tab.0.center" timestamp="1606218589612">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606218589612" />
+    <state width="1515" height="223" key="GridCell.Tab.0.left" timestamp="1606218589612">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606218589612" />
+    <state width="1515" height="223" key="GridCell.Tab.0.right" timestamp="1606218589612">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606218589612" />
+  </component>
+</project>

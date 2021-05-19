@@ -1,8 +1,6 @@
 class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:
         t = s.split()
-        if len(pattern)!=len(t):
-            return False
         Hash = {}
         for i in range(len(pattern)):
             if pattern[i] in Hash:
@@ -13,6 +11,5 @@ class Solution:
                     return False
                 Hash[pattern[i]] = t[i]
         return True
-
 case = Solution()
 print(case.wordPattern('abba','dog cat cat fish'))
